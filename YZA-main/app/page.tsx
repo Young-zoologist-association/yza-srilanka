@@ -1,3 +1,5 @@
-import HomePage from "@/views/home/HomePage";
+// Temporary: home shows the maintenance screen until launch.
+// To restore the real home page, swap the import back to "@/views/home/HomePage".
+import MaintenancePage from "@/views/maintenance/MaintenancePage";
 
-export default HomePage;
+export default MaintenancePage;
