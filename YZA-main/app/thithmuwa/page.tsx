@@ -1,4 +1,4 @@
-import ThithmuwaPageView from "@/pages/thithmuwa/ThithmuwaPageView";
+import ThithmuwaPageView from "@/views/thithmuwa/ThithmuwaPageView";
 
 export const metadata = {
   title: "තිත්මුවා | YZA Sri Lanka",

@@ -1,4 +1,4 @@
-import ArticlesPageView from "@/pages/articles/ArticlesPageView";
+import ArticlesPageView from "@/views/articles/ArticlesPageView";
 
 export const metadata = {
   title: "Articles | YZA Sri Lanka",

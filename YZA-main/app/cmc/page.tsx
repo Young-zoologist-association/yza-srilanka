@@ -1,4 +1,4 @@
-import CmcPageView from "@/pages/cmc/CmcPageView";
+import CmcPageView from "@/views/cmc/CmcPageView";
 
 export const metadata = {
   title: "Central Management Committee | YZA Sri Lanka",

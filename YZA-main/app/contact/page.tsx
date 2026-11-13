@@ -1,4 +1,4 @@
-import ContactUsPageView from "@/pages/contact/ContactUsPageView";
+import ContactUsPageView from "@/views/contact/ContactUsPageView";
 
 export const metadata = {
   title: "Contact Us | YZA Sri Lanka",

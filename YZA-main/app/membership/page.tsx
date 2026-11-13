@@ -1,4 +1,4 @@
-import MembershipPageView from "@/pages/membership/MembershipPageView";
+import MembershipPageView from "@/views/membership/MembershipPageView";
 
 export const metadata = {
   title: "Membership | YZA Sri Lanka",

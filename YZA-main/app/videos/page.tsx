@@ -1,4 +1,4 @@
-import VideosPageView from "@/pages/videos/VideosPageView";
+import VideosPageView from "@/views/videos/VideosPageView";
 
 export const metadata = {
   title: "Videos & Social Media | YZA Sri Lanka",

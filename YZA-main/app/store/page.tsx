@@ -1,4 +1,4 @@
-import StorePageView from "@/pages/store/StorePageView";
+import StorePageView from "@/views/store/StorePageView";
 
 export const metadata = {
   title: "Store | YZA Sri Lanka",

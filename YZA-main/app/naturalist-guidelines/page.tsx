@@ -1,4 +1,4 @@
-import NaturalistGuidelinesPageView from "@/pages/naturalist-guidelines/NaturalistGuidelinesPageView";
+import NaturalistGuidelinesPageView from "@/views/naturalist-guidelines/NaturalistGuidelinesPageView";
 
 export const metadata = {
   title: "Naturalist Guidelines | YZA Sri Lanka",

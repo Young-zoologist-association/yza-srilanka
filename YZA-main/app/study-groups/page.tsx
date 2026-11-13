@@ -1,4 +1,4 @@
-import StudyGroupsPageView from "@/pages/study-groups/StudyGroupsPageView";
+import StudyGroupsPageView from "@/views/study-groups/StudyGroupsPageView";
 
 export const metadata = {
   title: "Study Groups | YZA Sri Lanka",

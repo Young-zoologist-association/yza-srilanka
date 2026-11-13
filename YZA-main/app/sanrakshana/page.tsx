@@ -1,4 +1,4 @@
-import SanrakshanaPageView from "@/pages/sanrakshana/SanrakshanaPageView";
+import SanrakshanaPageView from "@/views/sanrakshana/SanrakshanaPageView";
 
 export const metadata = {
   title: "සංරක්ෂණ | YZA Sri Lanka",

@@ -1,4 +1,4 @@
-import SponsorshipPageView from "@/pages/sponsorship/SponsorshipPageView";
+import SponsorshipPageView from "@/views/sponsorship/SponsorshipPageView";
 
 export const metadata = {
   title: "Sponsorship | YZA Sri Lanka",

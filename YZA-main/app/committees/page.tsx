@@ -1,4 +1,4 @@
-import CommitteesPageView from "@/pages/committees/CommitteesPageView";
+import CommitteesPageView from "@/views/committees/CommitteesPageView";
 
 export const metadata = {
   title: "Committees | YZA Sri Lanka",

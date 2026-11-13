@@ -1,4 +1,4 @@
-import LeafletsPageView from "@/pages/leaflets/LeafletsPageView";
+import LeafletsPageView from "@/views/leaflets/LeafletsPageView";
 
 export const metadata = {
   title: "Leaflets | YZA Sri Lanka",

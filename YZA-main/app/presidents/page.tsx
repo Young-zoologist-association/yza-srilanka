@@ -1,4 +1,4 @@
-import PresidentsPageView from "@/pages/presidents/PresidentsPageView";
+import PresidentsPageView from "@/views/presidents/PresidentsPageView";
 
 export const metadata = {
   title: "Our Presidents | YZA Sri Lanka",

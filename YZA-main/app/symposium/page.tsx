@@ -1,4 +1,4 @@
-import SymposiumPageView from "@/pages/symposium/SymposiumPageView";
+import SymposiumPageView from "@/views/symposium/SymposiumPageView";
 
 export const metadata = {
   title: "Symposium | YZA Sri Lanka",

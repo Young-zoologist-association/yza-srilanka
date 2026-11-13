@@ -1,4 +1,4 @@
-import PanivudayaPageView from "@/pages/panivudaya/PanivudayaPageView";
+import PanivudayaPageView from "@/views/panivudaya/PanivudayaPageView";
 
 export const metadata = {
   title: "පණිවුඩය | YZA Sri Lanka",

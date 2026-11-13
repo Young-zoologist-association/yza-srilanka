@@ -1,4 +1,4 @@
-import EventsAndProjectsPageView from "@/pages/events-and-projects/EventsAndProjectsPageView";
+import EventsAndProjectsPageView from "@/views/events-and-projects/EventsAndProjectsPageView";
 
 export const metadata = {
   title: "Events & Projects | YZA Sri Lanka",

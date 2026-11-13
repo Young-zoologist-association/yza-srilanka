@@ -1,4 +1,4 @@
-import NewsAndUpdatesPageView from "@/pages/news-and-updates/NewsAndUpdatesPageView";
+import NewsAndUpdatesPageView from "@/views/news-and-updates/NewsAndUpdatesPageView";
 
 export const metadata = {
   title: "News & Updates | YZA Sri Lanka",

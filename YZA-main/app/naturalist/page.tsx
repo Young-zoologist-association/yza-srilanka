@@ -1,4 +1,4 @@
-import NaturalistPageView from "@/pages/naturalist/NaturalistPageView";
+import NaturalistPageView from "@/views/naturalist/NaturalistPageView";
 
 export const metadata = {
   title: "Naturalist | YZA Sri Lanka",

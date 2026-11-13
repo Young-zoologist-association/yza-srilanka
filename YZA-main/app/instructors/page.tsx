@@ -1,4 +1,4 @@
-import InstructorsPageView from "@/pages/instructors/InstructorsPageView";
+import InstructorsPageView from "@/views/instructors/InstructorsPageView";
 
 export const metadata = {
   title: "Instructors | YZA Sri Lanka",

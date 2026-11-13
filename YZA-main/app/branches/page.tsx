@@ -1,4 +1,4 @@
-import BranchesPageView from "@/pages/branches/BranchesPageView";
+import BranchesPageView from "@/views/branches/BranchesPageView";
 
 export const metadata = {
   title: "Our Branches | YZA Sri Lanka",

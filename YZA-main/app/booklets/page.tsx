@@ -1,4 +1,4 @@
-import BookletsPageView from "@/pages/booklets/BookletsPageView";
+import BookletsPageView from "@/views/booklets/BookletsPageView";
 
 export const metadata = {
   title: "Booklets | YZA Sri Lanka",
